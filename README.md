@@ -1,6 +1,6 @@
 # small-drc-dataset
-The Dataset contains the diradical character of 1566 optimized with PM6 compounds 
-#Computational Protocol
+The Dataset contains the diradical character of 1566 optimized with PM6 compounds<br><br> 
+#Computational Protocol<br><br>
 All calculations were carried out using an automated procedure. The initial geometries of the compounds are obtained from their corresponding SMILES representations using OpenBabel8.
 The geometry optimization of the compounds was performed with the PM69 method. 
 The vibrational frequencies analysis reveal that all optimized structures are in minimum. 
