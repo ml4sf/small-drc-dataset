@@ -1,6 +1,6 @@
 # small-drc-dataset
 The Dataset contains the diradical character of 1566 optimized with PM6 compounds<br><br> 
-**Computational Protocol**<br><br>
+**Computational Protocol:**<br>
 All calculations were carried out using an automated procedure. 
 The initial geometries of the compounds are obtained from their corresponding 
 SMILES representations using OpenBabel.<br>
