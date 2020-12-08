@@ -1,11 +1,11 @@
 # small-drc-dataset
 
 ## Getting started
--Datset1545.csv file contains a list of descriptors and diradical character data about 1545 molecules.
--Dataset508.csv file is a subset of Dataset1545.csv that contains data about compounds with nozero diradical character only.
--The `pm6_optimized_geom` directory contains xyz files of PM6 optimized geometries.
+* Datset1545.csv file contains a list of descriptors and diradical character data about 1545 molecules.
+* Dataset508.csv file is a subset of Dataset1545.csv that contains data about compounds with nozero diradical character only.
+* The `pm6_optimized_geom` directory contains xyz files of PM6 optimized geometries.
 
-##Computational Protocol
+## Computational Protocol
 All calculations were carried out using an automated procedure. 
 The initial geometries of the compounds are obtained from their corresponding 
 SMILES representations using OpenBabel.<br>
