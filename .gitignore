@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Vim tags
+tags
+
+#Working directory
+not_to_commit/
