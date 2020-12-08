@@ -1,8 +1,8 @@
 # small-drc-dataset
 
 ## Getting started
-* Datset1545.csv file contains a list of descriptors and diradical character data about 1545 molecules.
-* Dataset508.csv file is a subset of Dataset1545.csv that contains data about compounds with nozero diradical character only.
+* Datset1545.csv file contains a list of descriptors and diradical character data of 1545 molecules.
+* Dataset508.csv file is a subset of Dataset1545.csv that contains compounds with nonzero diradical character only.
 * The `pm6_optimized_geom` directory contains xyz files of PM6 optimized geometries.
 
 ## Computational Protocol
