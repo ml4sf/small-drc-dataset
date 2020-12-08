@@ -17,4 +17,4 @@ level. <br>
 In addition, descriptors values were calculated by using the AlvaDesc software.<br>
 All semi-empirical calculations were performed with the MOPAC 2016 program package. 
 The PUHF results were obtained with the Gaussian 09 program.
-The GNU parallel tool14 was extensively used to parallelize the computational procedures described above.
+The GNU parallel tool was extensively used to parallelize the computational procedures described above.
