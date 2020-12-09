@@ -1,3 +1,4 @@
+#https://medium.com/analytics-vidhya/pytorch-for-deep-learning-binary-classification-logistic-regression-382abd97fb43
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
